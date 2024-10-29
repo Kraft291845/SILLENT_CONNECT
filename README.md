@@ -15,7 +15,7 @@ sillent connect WINDOWS (exe)
 3. Запустить файл server.exe
 
 # Какие данные вводить?
-IP: IPv4 адрес сервера
+IP: IPv4 адрес сервера \n
 PORT: порт сервера (хоста)
 LOGIN: смотреть в файле users.txt
 PASSWORD: смотреть в файле users.txt
